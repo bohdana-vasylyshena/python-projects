@@ -38,7 +38,6 @@ final-project/     the course's capstone project
 | `file-handling/bonus.py` | Reads sales data from a file and summarizes it |
 | `file-handling/to_do_list.py` | To-do list manager with file storage |
 | `final-project/numberguess.py` | Final project: number guessing game with a high-score list |
-| `final-project/finalproject.py` | Early draft of the final project (superseded by `numberguess.py`) |
 
 ## How to run
 
@@ -287,5 +286,3 @@ Enter your guess: 37
 Correct! You guessed it in 3 attempts.
 ```
 
-> `final-project/finalproject.py` is an earlier draft of this game, kept for history; the finished, working version is `final-project/numberguess.py`.
-> 
